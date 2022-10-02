@@ -32,4 +32,3 @@ function sub(a,b){
     document.getElementById("subRes").innerHTML=`<p> ${a} - ${b} = ${total}</p>`;
 }
 
-mult();
